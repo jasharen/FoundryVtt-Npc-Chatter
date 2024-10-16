@@ -25,7 +25,7 @@
     }
   ],
   "socket": true,
-  "url": "https://github.com/cswendrowski/FoundryVtt-Npc-Chatter",
-  "manifest": "https://raw.githubusercontent.com/cswendrowski/FoundryVtt-Npc-Chatter/master/module.json",
-  "download": "https://github.com/cswendrowski/FoundryVtt-Npc-Chatter/releases/download/v2.2.0/npcchatter.zip"
+  "url": "https://github.com/jasharen/FoundryVtt-Npc-Chatter",
+  "manifest": "https://github.com/jasharen/FoundryVtt-Npc-Chatter/edit/master/module.json"
+  
 }
